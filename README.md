@@ -1,8 +1,4 @@
-# .github
-# AppleSoundTech
-# AppleSoundTech
-# AppleSoundTech
-# AppleSoundTech-
-# AppleSoundTech-
-# AppleSoundTech-
-# AppleSoundTech
+### 🔩 Apple 에서 제공해주는 Sound 기술을 사용해보는 저장소입니다 🔩
+
+---
+#### 🔩 파일구조
